@@ -1,0 +1,10 @@
+# backend venv & uploads
+server/venv/
+server/uploads/
+
+# frontend node_modules (when you add client code)
+client/node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
